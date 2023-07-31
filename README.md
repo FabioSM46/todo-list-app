@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Todo List Web App
 
-This is a simple Todo List web app built using TypeScript, React, and Next.js. The app allows users to create, update, and delete tasks they want to accomplish.
+This is a simple Todo List web app built using TypeScript, Next.js, Prisma and SQLite. The app allows users to create, update, and delete tasks they want to accomplish.
 
 ## Getting Started
 
