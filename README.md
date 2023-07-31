@@ -25,12 +25,11 @@ To run this project locally, make sure you have Node.js and npm (Node Package Ma
 
 ## Credits
 
-This web app was built with the help of [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw). He provided a comprehensive tutorial on building a Todo List app using TypeScript, React, and Next.js.
+This web app was built with the help of [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw). He provided a comprehensive tutorial on building this app.
 
 ## Technologies Used
 
 - TypeScript
-- React
 - Next.js
 - Tailwind CSS (Styling)
 - SQLite with Prisma
